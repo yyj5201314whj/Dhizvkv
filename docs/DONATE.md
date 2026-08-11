@@ -7,7 +7,8 @@ If you like this app, please consider donating!
 
 ## Alipay
 
-<a href="https://qr.alipay.com/fkx18805bxhq1yohgluna25" target="_blank"><img src="https://github.com/user-attachments/assets/5265755d-4594-44c0-8f83-7fe195b4bde2" width="400"></a>
+<img width="1118"height="1524"alt="11"src="https://github.com/user-attachments/assets/ef63faaa-5c9f-404b-9fd7-73b4b0d6370c"/>
+
 
 ## WeChat Pay
 
