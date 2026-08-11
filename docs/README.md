@@ -4,51 +4,50 @@ English | [简体中文](README_zh_rCN.md) | [繁体中文](README_zh_Hant.md) |
 
 # Dhizuku
 
-[![Downloads](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=Downloads)](https://github.com/iamr0s/Dhizuku/releases)
-[![Latest](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=Lastest)](https://github.com/iamr0s/Dhizuku/releases/latest)
-[![License](https://img.shields.io/github/license/iamr0s/Dhizuku?label=License)](https://github.com/iamr0s/Dhizuku/blob/main/LICENSE)
+[![下载量](https://img.shields.io/github/downloads/iamr0s/Dhizuku/total?label=下载量)](https://github.com/iamr0s/Dhizuku/releases)
+[![最新版本](https://img.shields.io/github/v/release/iamr0s/Dhizuku?label=最新版本)](https://github.com/iamr0s/Dhizuku/releases/latest)
+[![许可证](https://img.shields.io/github/license/iamr0s/Dhizuku?label=许可证)](https://github.com/iamr0s/Dhizuku/blob/main/LICENSE)
 
 <a href="https://play.google.com/store/apps/details?id=com.rosan.dhizuku" target="_blank"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" height="70"></a>
 <a href="https://f-droid.org/packages/com.rosan.dhizuku/" target="_blank"><img src="https://f-droid.org/badge/get-it-on.png" height="70"></a>
 <a href="https://apt.izzysoft.de/fdroid/index/apk/com.rosan.dhizuku" target="_blank"><img src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" height="70"></a>
 
-| [Terms of Use](TERMS.md) | [Privacy Policy](PRIVACY.md) |
+| [使用条款](TERMS.md) | [隐私政策](PRIVACY.md) |
 |-|-|
 
-## Introduction
+## 项目简介
 
-A tool for sharing DeviceOwner permissions with other applications.
+一款可以将设备所有者（DeviceOwner）权限共享给其他应用的工具。
 
-## Activation Tutorial
+## 激活教程
 
-For instructions on how to activate DeviceOwner for Dhizuku, head over to the
-[Github Discussions](https://github.com/iamr0s/Dhizuku/discussions/19) page to see a
-detailed guide.
+想要了解如何为 Dhizuku 激活设备所有者权限，请前往
+[Github 讨论区](https://github.com/iamr0s/Dhizuku/discussions/19)查看详细操作指南。
 
 > [!IMPORTANT]
-> We strongly recommend setting up your device **without any accounts**.
-> If your device is already set up, you may need to remove these prior to enabling Dhizuku.
-> We may not be able to provide support if **any accounts are configured** on the device.
+> **强烈建议在设备未登录任何账号的状态下进行配置**。
+> 如果你的设备已经完成初始化，开启 Dhizuku 之前你可能需要移除设备上全部账号。
+> **若设备存在已配置的账号，我们将无法提供技术支持**。
 
-## Supported Versions
+## 支持安卓版本
 
 Android 8.0 ~ 17
 
-## For Developers
+## 给开发者
 
-App developers who wish to use Dhizuku can utilize the [Dhizuku API](https://github.com/iamr0s/Dhizuku-API) in order to access DeviceOwner permissions.
+应用开发者如果想要接入 Dhizuku，可以使用 [Dhizuku API](https://github.com/iamr0s/Dhizuku‑API)，以此调用设备所有者权限。
 
-## Translations
+## 翻译贡献
 
-If you would like to get involved in translating Dhizuku, head over to [Weblate](https://hosted.weblate.org/engage/dhizuku/).
-If you notice issues with the existing translations, please provide your input to fix incorrect or inappropriate strings.
+如果你想要参与 Dhizuku 的翻译工作，请前往 [Weblate](https://hosted.weblate.org/engage/dhizuku/)。
+如果你发现现有翻译存在问题，欢迎反馈，修正错误或不合适的文本。
 
-[![Status](https://hosted.weblate.org/widgets/dhizuku/-/multi-auto.svg)](https://hosted.weblate.org/engage/dhizuku/)
+[![翻译状态](https://hosted.weblate.org/widgets/dhizuku/-/multi-auto.svg)](https://hosted.weblate.org/engage/dhizuku/)
 
-## Donations
+## 捐赠支持
 
-If you like this app, please consider [**donating**](DONATE.md)!
+如果你喜欢本应用，欢迎考虑[**捐赠**](DONATE.md)！
 
-## License
+## 开源许可证
 
-Dhizuku is licensed under the [**GNU General Public License v3 (GPL-3)**](http://www.gnu.org/copyleft/gpl.html), and will remain open-source in the future.
+Dhizuku 使用 [**GNU 通用公共许可证 v3 (GPL‑3)**](http://www.gnu.org/copyleft/gpl.html) 开源，未来也会持续保持开源。
