@@ -11,7 +11,8 @@ If you like this app, please consider donating!
 
 ## WeChat Pay
 
-<img src="https://github.com/user-attachments/assets/d5fa6bab-5953-49ff-a8b6-4d3577a21558" width="400">
+<img width="1118" height="1524" alt="11" src="https://github.com/user-attachments/assets/ef63faaa-5c9f-404b-9fd7-73b4b0d6370c" />
+
 
 ## Binance
 
